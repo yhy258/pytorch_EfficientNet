@@ -6,5 +6,4 @@ Compound Scaling 해주는 수치는 small grid search를 통해 찾아졌으며
 이 Network의 baseline model은 NAS(Neural Architecture Search)를 이용해서 만들어진 네트워크 입니다.  
   
 자세한 내용을 알고싶으시면,  
-https://velog.io/@yhyj1001/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-EfficientNet-Rethinking-Model-Scaling-for-Convolutional-Neural-Networks  
-를 참고해 주십시오
+https://deepseow.tistory.com/25?category=947210를 참고해 주십시오
